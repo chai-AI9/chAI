@@ -1,1 +1,1 @@
-# chAI
+Compassionate Human-AI: a poetic, ethical AI lab by Chai.
